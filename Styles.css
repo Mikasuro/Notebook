@@ -1,0 +1,24 @@
+﻿
+#form label {
+    width: 150px;
+    display: inline-block;
+}
+
+#form input {
+    margin: 2px;
+    margin-left: 4px;
+    width: 200px;
+}
+
+#form select {
+    margin: 2px 0;
+    width: 154px;
+}
+
+button[type=submit] {
+    margin-top: 15px;
+    padding: 5px;
+}
+.div{ 
+    text-align:center;
+}
